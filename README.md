@@ -1,4 +1,4 @@
-# Sales-Data-Analysis
+# Sales-Data-Analysis using SQL
 
 
 ## Project Overview
